@@ -2,4 +2,4 @@
 echo "this script is from githib"
 NUMBER=$(($NUMBERONE+$NUMBERTWO))
 echo "$NUMBER"
-echo  "New"
+echo  "Newly added"
